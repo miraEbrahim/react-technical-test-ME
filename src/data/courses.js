@@ -1,4 +1,4 @@
-[
+const coursesList = [
     {
       "id": 1,
       "course-type": "core",
@@ -119,4 +119,6 @@
         "Topic Four"
       ]
     }
-  ]
+  ];
+
+  export default coursesList;
